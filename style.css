@@ -9,6 +9,7 @@ body {
 }
 
 .card {
+    
   background-color: white;
   display: flex;
   flex-direction: row;
